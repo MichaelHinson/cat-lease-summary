@@ -17,6 +17,7 @@
 |Admin|250|
 |Deposit|400|
 |Rental Insurance|30|
+
 Total: $1155
 
 
